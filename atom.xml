@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chen su</title>
+  <title>北海轻歌</title>
   <icon>https://imgur.lzmun.com/picgo/20190625163454.jpg</icon>
-  <subtitle>北海轻歌</subtitle>
+  <subtitle>琛苏设计</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cssj.fun/"/>
-  <updated>2021-01-26T08:10:53.146Z</updated>
+  <updated>2021-01-26T08:29:00.239Z</updated>
   <id>https://cssj.fun/</id>
   
   <author>
@@ -22,36 +22,15 @@
     <link href="https://cssj.fun/2021/2021-1-26/"/>
     <id>https://cssj.fun/2021/2021-1-26/</id>
     <published>2021-01-26T06:51:10.000Z</published>
-    <updated>2021-01-26T08:10:53.146Z</updated>
+    <updated>2021-01-26T08:29:00.239Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;小时候的梦&quot;&gt;&lt;a href=&quot;#小时候的梦&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">我是谁？我是怎么来的？我的思想怎么形成的？在之后的几年时间中，我就时不时思考这个问题，我为什么是我？世界上或者宇宙中还有没有另一个我？我是第一次来到这个世界吗？我死了以后我的记忆还能保留吗？</summary>
     
     
     
     
     <category term="生活" scheme="https://cssj.fun/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>在人世间有一种庸俗势力的大合唱，谁一旦对它屈服，就永远沉沦了，真是可惜。</title>
-    <link href="https://cssj.fun/2021/moment/20210113/"/>
-    <id>https://cssj.fun/2021/moment/20210113/</id>
-    <published>2021-01-13T01:43:08.000Z</published>
-    <updated>2021-01-13T01:43:29.138Z</updated>
-    
-    
-    
-    
     
   </entry>
   
