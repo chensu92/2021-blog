@@ -932,6 +932,28 @@
     
     
     <entry>
+      <title>日历</title>
+      <link href="/calendar.html"/>
+      <url>/calendar.html</url>
+      
+        <content type="html"><![CDATA[<link href="/css/calendar.css" rel="stylesheet"><section class="main-section first-section">  <h1 class="mdui-text-center date">01/30</h1>  <p class="mdui-text-center sentence">我们始终在用无知面对世界</p></section>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/links.html"/>
+      <url>/links.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="友情链接政策"><a href="#友情链接政策" class="headerlink" title="友情链接政策"></a>友情链接政策</h2><ul><li>全站 HTTPS</li><li>文章内容以原创、技术、日常为主</li><li>非免费域名</li><li>网站营运时间一年以上</li></ul><p><strong>上面要求都是假的</strong></p><blockquote><p>Always believe that something wonderful is about to happen.</p></blockquote>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于</title>
       <link href="/about.html"/>
       <url>/about.html</url>
@@ -954,28 +976,6 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/links.html"/>
-      <url>/links.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="友情链接政策"><a href="#友情链接政策" class="headerlink" title="友情链接政策"></a>友情链接政策</h2><ul><li>全站 HTTPS</li><li>文章内容以原创、技术、日常为主</li><li>非免费域名</li><li>网站营运时间一年以上</li></ul><p><strong>上面要求都是假的</strong></p><blockquote><p>Always believe that something wonderful is about to happen.</p></blockquote>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>日历</title>
-      <link href="/calendar.html"/>
-      <url>/calendar.html</url>
-      
-        <content type="html"><![CDATA[<link href="/css/calendar.css" rel="stylesheet"><section class="main-section first-section">  <h1 class="mdui-text-center date">01/30</h1>  <p class="mdui-text-center sentence">我们始终在用无知面对世界</p></section>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>搜索</title>
       <link href="/search.html"/>
       <url>/search.html</url>
@@ -990,17 +990,6 @@
       <title>提词器</title>
       <link href="/Teleprompter/index.html"/>
       <url>/Teleprompter/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>记录美好生活</title>
-      <link href="/bbb/index.html"/>
-      <url>/bbb/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1036,6 +1025,17 @@
       <url>/liuzhou2020spring.html</url>
       
         <content type="html"><![CDATA[<p>今天终于有时间出门看紫荆花了。前几天一直阴雨绵绵，花开了又被雨打掉了不少，紫荆花也稀稀疏疏地挂在树上。</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>记录美好生活</title>
+      <link href="/bbb/index.html"/>
+      <url>/bbb/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
