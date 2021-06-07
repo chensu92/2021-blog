@@ -779,11 +779,11 @@
       
         <tags>
             
-            <tag> 果然 </tag>
-            
             <tag> 美食 </tag>
             
             <tag> 宫保鸡丁 </tag>
+            
+            <tag> 果然 </tag>
             
         </tags>
       
@@ -973,17 +973,6 @@
     
     
     <entry>
-      <title>日历</title>
-      <link href="/calendar.html"/>
-      <url>/calendar.html</url>
-      
-        <content type="html"><![CDATA[<link href="/css/calendar.css" rel="stylesheet"><section class="main-section first-section">  <h1 class="mdui-text-center date">01/30</h1>  <p class="mdui-text-center sentence">我们始终在用无知面对世界</p></section>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>友情链接</title>
       <link href="/links.html"/>
       <url>/links.html</url>
@@ -1011,6 +1000,17 @@
       <url>/search.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日历</title>
+      <link href="/calendar.html"/>
+      <url>/calendar.html</url>
+      
+        <content type="html"><![CDATA[<link href="/css/calendar.css" rel="stylesheet"><section class="main-section first-section">  <h1 class="mdui-text-center date">01/30</h1>  <p class="mdui-text-center sentence">我们始终在用无知面对世界</p></section>]]></content>
       
     </entry>
     
@@ -1083,9 +1083,9 @@
     
     
     <entry>
-      <title>导航</title>
-      <link href="/navigate/index.html"/>
-      <url>/navigate/index.html</url>
+      <title>工具箱</title>
+      <link href="/tools/index.html"/>
+      <url>/tools/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1094,9 +1094,9 @@
     
     
     <entry>
-      <title>工具箱</title>
-      <link href="/tools/index.html"/>
-      <url>/tools/index.html</url>
+      <title>导航</title>
+      <link href="/navigate/index.html"/>
+      <url>/navigate/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
